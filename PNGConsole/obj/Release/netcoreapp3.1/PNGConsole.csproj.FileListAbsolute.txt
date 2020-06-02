@@ -1,0 +1,13 @@
+C:\Users\johnr\source\repos\PNGConsole\PNGConsole\bin\Release\netcoreapp3.1\PNGConsole.exe
+C:\Users\johnr\source\repos\PNGConsole\PNGConsole\bin\Release\netcoreapp3.1\PNGConsole.deps.json
+C:\Users\johnr\source\repos\PNGConsole\PNGConsole\bin\Release\netcoreapp3.1\PNGConsole.runtimeconfig.json
+C:\Users\johnr\source\repos\PNGConsole\PNGConsole\bin\Release\netcoreapp3.1\PNGConsole.runtimeconfig.dev.json
+C:\Users\johnr\source\repos\PNGConsole\PNGConsole\bin\Release\netcoreapp3.1\PNGConsole.dll
+C:\Users\johnr\source\repos\PNGConsole\PNGConsole\bin\Release\netcoreapp3.1\PNGConsole.pdb
+C:\Users\johnr\source\repos\PNGConsole\PNGConsole\obj\Release\netcoreapp3.1\PNGConsole.csproj.CoreCompileInputs.cache
+C:\Users\johnr\source\repos\PNGConsole\PNGConsole\obj\Release\netcoreapp3.1\PNGConsole.AssemblyInfoInputs.cache
+C:\Users\johnr\source\repos\PNGConsole\PNGConsole\obj\Release\netcoreapp3.1\PNGConsole.AssemblyInfo.cs
+C:\Users\johnr\source\repos\PNGConsole\PNGConsole\obj\Release\netcoreapp3.1\PNGConsole.dll
+C:\Users\johnr\source\repos\PNGConsole\PNGConsole\obj\Release\netcoreapp3.1\PNGConsole.pdb
+C:\Users\johnr\source\repos\PNGConsole\PNGConsole\obj\Release\netcoreapp3.1\PNGConsole.genruntimeconfig.cache
+C:\Users\johnr\source\repos\PNGConsole\PNGConsole\obj\Release\netcoreapp3.1\PNGConsole.csprojAssemblyReference.cache

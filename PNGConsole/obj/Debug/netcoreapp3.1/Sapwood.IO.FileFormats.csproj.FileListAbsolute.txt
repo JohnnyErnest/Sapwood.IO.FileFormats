@@ -1,0 +1,13 @@
+C:\Users\johnr\source\repos\PNGConsole\PNGConsole\bin\Debug\netcoreapp3.1\Sapwood.IO.FileFormats.exe
+C:\Users\johnr\source\repos\PNGConsole\PNGConsole\bin\Debug\netcoreapp3.1\Sapwood.IO.FileFormats.deps.json
+C:\Users\johnr\source\repos\PNGConsole\PNGConsole\bin\Debug\netcoreapp3.1\Sapwood.IO.FileFormats.runtimeconfig.json
+C:\Users\johnr\source\repos\PNGConsole\PNGConsole\bin\Debug\netcoreapp3.1\Sapwood.IO.FileFormats.runtimeconfig.dev.json
+C:\Users\johnr\source\repos\PNGConsole\PNGConsole\bin\Debug\netcoreapp3.1\Sapwood.IO.FileFormats.dll
+C:\Users\johnr\source\repos\PNGConsole\PNGConsole\bin\Debug\netcoreapp3.1\Sapwood.IO.FileFormats.pdb
+C:\Users\johnr\source\repos\PNGConsole\PNGConsole\obj\Debug\netcoreapp3.1\Sapwood.IO.FileFormats.csproj.CoreCompileInputs.cache
+C:\Users\johnr\source\repos\PNGConsole\PNGConsole\obj\Debug\netcoreapp3.1\Sapwood.IO.FileFormats.AssemblyInfoInputs.cache
+C:\Users\johnr\source\repos\PNGConsole\PNGConsole\obj\Debug\netcoreapp3.1\Sapwood.IO.FileFormats.AssemblyInfo.cs
+C:\Users\johnr\source\repos\PNGConsole\PNGConsole\obj\Debug\netcoreapp3.1\Sapwood.IO.FileFormats.dll
+C:\Users\johnr\source\repos\PNGConsole\PNGConsole\obj\Debug\netcoreapp3.1\Sapwood.IO.FileFormats.pdb
+C:\Users\johnr\source\repos\PNGConsole\PNGConsole\obj\Debug\netcoreapp3.1\Sapwood.IO.FileFormats.genruntimeconfig.cache
+C:\Users\johnr\source\repos\PNGConsole\PNGConsole\obj\Debug\netcoreapp3.1\Sapwood.IO.FileFormats.csprojAssemblyReference.cache
